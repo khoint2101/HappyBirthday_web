@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Xin chào bạn, mở bức thư đi nhé" //Lời mở đầu cho bức thư
-const mainContentLetter = "Cái này đi copy thôi kaka" //Nội dung của bức thư
+const mainContentLetter = "Cho hỏi sinh nhật bạn là hôm nào thế???" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
